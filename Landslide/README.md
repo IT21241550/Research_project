@@ -43,11 +43,11 @@ The *Landslide Prediction System* is a machine learning-based solution designed 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/landslide-prediction-system.git
-   cd landslide-prediction-system
+   git clone 
+   cd Landslide
 
 2. Navigate to the project directory.
-cd landslide-prediction-system
+cd Landslide
 
 3. Install dependencies:
     ```bash
