@@ -2,7 +2,7 @@
 
 ## Overview
 
-The *Landslide Prediction System* is a machine learning-based solution designed to predict the likelihood of landslides in specific regions. It uses environmental data, such as rainfall, soil moisture, and topography, to provide accurate and timely warnings, helping to mitigate the impact of landslides on lives and property.
+The *Landslide Prediction System* is a machine learning-based solution designed to predict the likelihood of landslides in specific regions. It uses environmental data, such as rainfall, soil moisture, to provide accurate and timely warnings, helping to mitigate the impact of landslides on lives and property.
 
 ## Features
 
@@ -16,10 +16,10 @@ The *Landslide Prediction System* is a machine learning-based solution designed 
 
 - *Programming Language*: Python
 - *Machine Learning Frameworks*: TensorFlow, Scikit-learn
-- *Web Framework*: Flask/Django (for API)
-- *Database*: PostgreSQL/MongoDB
+- *Web Framework*: Flask(for API)
+- *Database*: MongoDB
 - *Front-end*: React (for visualization)
-- *Deployment*: Docker, AWS/GCP/Azure
+- *Deployment*: Docker
 
 ## How It Works
 
@@ -43,7 +43,7 @@ The *Landslide Prediction System* is a machine learning-based solution designed 
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/IT21241550/Research_project
    cd Landslide
 
 2. Navigate to the project directory.
