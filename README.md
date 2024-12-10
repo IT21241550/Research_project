@@ -1,9 +1,8 @@
-**Research Project**
+#**Research Project**
 
-# Disaster Early warning system
+## Disaster Early warning system
 
-## Flood Detection 
-
+### Flood Detection 
 
 
 
@@ -11,7 +10,7 @@
 ***Bidushan***
 
 
-## Drought Prediction 
+### Drought Prediction 
 
 
 
@@ -19,7 +18,7 @@
 ***Binal***
 
 
-## Cyclones Detection 
+### Cyclones Detection 
 
 
 
@@ -27,8 +26,7 @@
 ***Methma***
 
 
-## Landslides Prediction by Chamod
-
+### Landslides Prediction
 
 
 
