@@ -1,5 +1,36 @@
-# Research_project
-Disaster Early warning system
+** Research Project **
 
-## Flood Prediction 
-@Bidushan 
+# Disaster Early warning system
+
+## Flood Detection 
+
+
+
+
+
+***Bidushan***
+
+
+## Drought Prediction 
+
+
+
+
+***Binal***
+
+
+## Cyclones Detection 
+
+
+
+
+***Methma***
+
+
+## Landslides Prediction by Chamod
+
+
+
+
+
+***Chamod***
