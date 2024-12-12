@@ -1,4 +1,4 @@
-** Research Project **
+**Research Project**
 
 # Disaster Early warning system
 
